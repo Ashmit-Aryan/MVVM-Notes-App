@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace 'com.devdojohub.notestakingapp'
-    compileSdk 34
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.devdojohub.notestakingapp"
